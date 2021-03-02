@@ -1,0 +1,53 @@
+
+20
+Value = 384.91068434604665
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 38 iterations.
+Time Elapsed =  2.654 seconds
+Done
+
+25
+Value = 406.1916094678244
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 64 iterations.
+Time Elapsed =  13.418 seconds
+Done
+
+
+30 
+Value = 463.51067441744925
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 255 iterations.
+Time Elapsed =  1070.441 seconds
+Done
+image saved
+
+40
+Value = 521.0635398857382
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 229 iterations.
+Time Elapsed =  194.009 seconds
+Done
+
+
+50
+Value = 563.090730601742
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 28 iterations.
+Time Elapsed =  4.061 seconds
+Done
+
+70
+Value = 655.4516814909966
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 70 iterations.
+Time Elapsed =  36.024 seconds
+Done
+
+90
+Value = 745.6692381457262
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 79 iterations.
+Time Elapsed =  67.722 seconds
+Done
+image saved

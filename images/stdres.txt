@@ -1,0 +1,35 @@
+rat99
+Value = 1219.243768677697
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 119 iterations.
+Time Elapsed =  84.345 seconds
+
+
+berlin52
+Value = 7544.365901904089
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 25 iterations.
+Time Elapsed =  3.292 seconds
+
+
+pr76
+Value = 108159.4382741377
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 139 iterations.
+Time Elapsed =  440.011 seconds
+Done
+
+
+bier127
+Value = 118293.52381566976
+<<<<<<<<<<<<< Finally we get opt solution >>>>>>>>>>>>>
+With 278 iterations.
+Time Elapsed =  1987.856 seconds
+Done
+
+
+a280
+Total (root+branch&cut) =    6.22 sec. (1976.60 ticks)
+Value = 2548.999000579718
+Time since beginning =  300.79 seconds
+Exception in thread "main" java.lang.OutOfMemoryError: GC overhead limit exceeded
